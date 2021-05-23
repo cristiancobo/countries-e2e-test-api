@@ -1,0 +1,19 @@
+{
+  "name": "countries-e2e-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancobo/countries-e2e-test-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiancobo/countries-e2e-test-api/issues"
+  },
+  "homepage": "https://github.com/cristiancobo/countries-e2e-test-api#readme"
+}
